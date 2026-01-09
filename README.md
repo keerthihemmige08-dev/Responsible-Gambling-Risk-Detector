@@ -1,11 +1,11 @@
-# 🎰 Responsible Gambling Risk Detector
+ 🎰 Responsible Gambling Risk Detector
 
 **AI-powered tool to detect gambling risk levels in casino players.**  
 Built using **Python**, **Scikit-learn**, and **Gradio**. Features an **interactive dashboard** with animated outputs and risk visualization.
 
----
 
-## 🚀 Project Overview
+
+  Project Overview
 
 Responsible gambling is critical for casinos and players alike. This project uses **player behavior data** to predict whether a player is at **Low, High, or Severe risk** of problematic gambling. It also explains **why** the player is flagged with an easy-to-read interactive interface.
 
@@ -15,9 +15,9 @@ Responsible gambling is critical for casinos and players alike. This project use
 - **Animated dashboard** using Gradio for a professional, user-friendly experience.
 - Fully interactive: sliders for numeric inputs, dropdowns for behavioral indicators.
 
----
 
-## 🛠 Technology Stack
+
+ Technology Stack
 
 - **Python 3.11+**
 - **Pandas** – for data handling
@@ -25,9 +25,9 @@ Responsible gambling is critical for casinos and players alike. This project use
 - **Gradio** – interactive web interface
 - **CSS** – custom styling and animations
 
----
 
-## 📊 How It Works
+
+ How It Works
 
 1. **Data Input:** User enters session length, bets placed, average bet amount, total loss, deposit frequency, and selects behavioral indicators.  
 2. **AI Model:** A trained Random Forest Classifier predicts whether the player is at high risk.  
@@ -38,7 +38,8 @@ Responsible gambling is critical for casinos and players alike. This project use
 
 ---
 
-## 💻 Live Demo
+Live Demo
 
-Try it online here: [Hugging Face Space](https://huggingface.co/spaces/YKeerthiHemmige08/responsible_gambling)  
+Try it online here: [Hugging Face Space](https://https://huggingface.co/spaces/KeerthiHemmige08/responsible-gambling-risk-detector) 
+
  
